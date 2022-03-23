@@ -10,6 +10,6 @@
 <details>
 <summary>Count by X</summary>
 
-> - [Count by X](https://github.com/lkt9899/codewar_cpp/blob/main/8kyu/Solution/count_by_x%3F.md)
+> - [Count by X](https://github.com/lkt9899/codewar_cpp/blob/main/8kyu/Solution/count_by_x.md)   
 > ![prob2](https://user-images.githubusercontent.com/80976609/159629456-99fc5fbc-624e-497a-aadc-293ddbe26845.png)
 </details>
