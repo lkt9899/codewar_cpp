@@ -5,6 +5,6 @@ codewar 문제풀이 모음
 
 ---
 ## Link
-- [8kyu](8kyu)
+- [8kyu](8kyu/README.md)
 - [7kyu](7kyu)
 - [6kyu](6kyu)
